@@ -38,6 +38,65 @@
 .text-inverse {
 	color: #fff;
 }
+
+
+.font-size-8px {
+	font-size: 8px;
+}
+
+.font-size-10px {
+	font-size: 10px;
+}
+
+.font-size-12px {
+	font-size: 12px;
+}
+
+.font-size-14px {
+	font-size: 14px;
+}
+
+.font-size-16px {
+	font-size: 16px;
+}
+
+.font-size-18px {
+	font-size: 18px;
+}
+
+.font-size-20px {
+	font-size: 20px;
+}
+
+.font-size-24px {
+	font-size: 24px;
+}
+
+.font-size-26px {
+	font-size: 26px;
+}
+
+.font-size-28px {
+	font-size: 28px;
+}
+
+.font-size-30px {
+	font-size: 30px;
+}
+
+.font-size-32px {
+	font-size: 32px;
+}
+
+.font-size-34px {
+	font-size: 34px;
+}
+
+.font-size-36px {
+	font-size: 36px;
+}
+
+
 /*========== Custom Text Color ===========*/
 @include text-emphasis-variant('.text-green', $green);
 @include text-emphasis-variant('.text-yellow', $yellow);
