@@ -2,7 +2,7 @@
   "productName": "CCIFrance_Digipilote",
   "systemName": "Digipilote Systems",
   "external": false,
-  "apiUrl": "https://digipilote-backend.azurewebsites.net/api/v1/",
+  "apiUrl": "https://digipilote-dev-backend.azurewebsites.net/api/v1/",
   "apiConfigs": {
     "authentication": {
       "loginUser": {
@@ -47,7 +47,7 @@
       "apiEndpoint": "comments/"
     },
     "server": {
-      "apiEndpoint": "https://digipilote-backend.azurewebsites.net/api/v1/"
+      "apiEndpoint": "https://backend.digipilote.eu/api/v1/"
     }
   }
 }
